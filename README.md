@@ -4,7 +4,7 @@
 Author: [Jacob S. Francis]
 
 ## Overview
-- This repository contains Google Colab Notebooks prepared for GEO 441/541 @Miami University during the fall semester of 2025. This course is a part of the GiSCI Certificate courework at Miami University, which serves as the introduction to ArcGIS Pro and Geographic Informations Systems. 
+- This repository contains Google Colab Notebooks prepared for GEO 441/541 @Miami University during the fall semester of 2025. This course is a part of the GiSCI Certificate coursework at Miami University, which serves as the introduction to ArcGIS Pro and Geographic Informations Systems. 
 
 ## Data
 Compressed Zip File To Data Sources: (https://drive.google.com/drive/folders/1EGiXktsumKgAdEeayWlpc9DPGG8QrWsT?usp=sharing)
